@@ -46,7 +46,7 @@
   <p align="center">
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="90" alt="Slaking" />
     <br><br>
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/github-snake-dark.svg" alt="Pacman Grid Animation" />
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" />
   </p>
 
 </div>
