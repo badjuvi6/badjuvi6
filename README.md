@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-     Manu Winfred <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/slaking.gif" width="120" alt="Slaking" style="vertical-align: middle; margin-left: 10px;" />
+     Manu Winfred <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/slaking.gif" width="100" alt="Slaking" style="vertical-align: middle; margin-left: 10px;" />
   </h1>
 
 
@@ -27,11 +27,9 @@
     <img src="https://img.shields.io/badge/_Postman-161b22?style=flat-square&logo=postman&logoColor=00F5FF" />
   </p>
 
-  <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=badjuvi6&show_icons=true&theme=dark&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=badjuvi6&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
+<p align="center">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=badjuvi6&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" alt="GitHub Streak" />
   </p>
-
   <p align="center">
     <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" />
   </p>
