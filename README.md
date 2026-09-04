@@ -1,9 +1,12 @@
 <div align="center">
 
-  <h1>⚡ Manu Winfred</h1>
+  <h1>Manu Winfred</h1>   <p align="center">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
+    <br>
+  </p>
   <p><code>> FULL-STACK DEVELOPER | IT UNDERGRADUATE</code></p>
 
-  <p>
+  <p align="center">
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:manuwinfred369@gmail.com"><img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" /></a>
   </p>
@@ -11,29 +14,24 @@
   ---
 
 
-  <p>
-    <!-- Languages & Core -->
+  <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=black" />
     <img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
     <img src="https://img.shields.io/badge/HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=black" />
     <img src="https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black" />
     <br>
-    <!-- Frameworks & Libraries -->
     <img src="https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/Node.js-00F5FF?style=for-the-badge&logo=nodedotjs&logoColor=black" />
     <img src="https://img.shields.io/badge/Express.js-00F5FF?style=for-the-badge&logo=express&logoColor=black" />
     <br>
-    <!-- Databases & Tools -->
     <img src="https://img.shields.io/badge/MongoDB-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black" />
     <img src="https://img.shields.io/badge/Firebase-00F5FF?style=for-the-badge&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-00F5FF?style=for-the-badge&logo=git&logoColor=black" />
     <img src="https://img.shields.io/badge/Postman-00F5FF?style=for-the-badge&logo=postman&logoColor=black" />
   </p>
 
-  
----
-
+  ---
 
 
   <p align="center">
@@ -41,14 +39,9 @@
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=badjuvi6&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
   </p>
 
-  ---
+</div>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
-</p>
-    <img src="https://ghchart.rshah.org/00f5ff/badjuvi6" alt="badjuvi6's Github Contribution Chart" />
-  </p>
+---
 
 
 ```yaml
