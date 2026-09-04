@@ -11,6 +11,7 @@
 
   ---
 
+  ### ⚙️ TECH_STACK // CORE_CAPABILITIES
 
   <p align="center">
     <!-- Languages & Core -->
@@ -34,6 +35,7 @@
 
   ---
 
+  ### 📊 SYSTEM_METRICS
 
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=badjuvi6&show_icons=true&theme=dark&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
@@ -42,27 +44,19 @@
 
   ---
 
-### 👾 CONTRIBUTION_GRID // PACMAN_GRID
+  ### 👾 CONTRIBUTION_GRID // PACMAN_GRID
 
   <p align="center">
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="90" alt="Slaking" />
+    <br><br>
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" />
   </p>
-
-  <p align="center" style="overflow: hidden; display: block; margin: 0 auto; width: 100%;">
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" style="animation: mazeMove 6s ease-in-out infinite alternate; display: inline-block;" />
-  </p>
-
-  <style>
-    @keyframes mazeMove {
-      0% { transform: translateX(-8px) scale(0.99); }
-      100% { transform: translateX(8px) scale(1.01); }
-    }
-  </style>
 
 </div>
 
 ---
 
+### 📂 DEPLOYED_PROJECTS
 
 ```yaml
 [01] Real Estate App: "Full-stack property listing web application built with React, Node.js, Express, and MongoDB."
