@@ -1,7 +1,9 @@
 <div align="center">
 
-  <h1>Manu Winfred</h1>
-
+  <h1>Manu Winfred</h1> <p align="center">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
+    <br>
+  </p>
   <p><code>> FULL-STACK DEVELOPER | IT UNDERGRADUATE</code></p>
 
   <p align="center">
@@ -41,8 +43,6 @@
 
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
-    <br>
     <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/github-snake-dark.svg" alt="Contribution Grid Animation" />
   </p>
 
