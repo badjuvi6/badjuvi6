@@ -42,14 +42,22 @@
 
   ---
 
+### 👾 CONTRIBUTION_GRID // PACMAN_GRID
 
   <p align="center">
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="90" alt="Slaking" />
-    <br><br>
   </p>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" />
+
+  <p align="center" style="overflow: hidden; display: block; margin: 0 auto; width: 100%;">
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pacman-contribution-graph.svg" alt="Pacman Contribution Grid" style="animation: mazeMove 6s ease-in-out infinite alternate; display: inline-block;" />
   </p>
+
+  <style>
+    @keyframes mazeMove {
+      0% { transform: translateX(-8px) scale(0.99); }
+      100% { transform: translateX(8px) scale(1.01); }
+    }
+  </style>
 
 </div>
 
