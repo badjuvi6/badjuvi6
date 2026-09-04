@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>
-     Manu Winfred <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="120" alt="Slaking" style="vertical-align: middle; margin-left: 10px;" />
+     Manu Winfred <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/slaking.gif" width="120" alt="Slaking" style="vertical-align: middle; margin-left: 10px;" />
   </h1>
 
 
