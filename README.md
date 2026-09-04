@@ -1,9 +1,7 @@
 <div align="center">
 
-  <h1>Manu Winfred</h1> <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
-    <br>
-  </p>
+  <h1>⚡ Manu Winfred</h1>
+
   <p><code>> FULL-STACK DEVELOPER | IT UNDERGRADUATE</code></p>
 
   <p align="center">
@@ -13,6 +11,7 @@
 
   ---
 
+  ### ⚙️ TECH_STACK // CORE_CAPABILITIES
 
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -33,6 +32,7 @@
 
   ---
 
+  ### 📊 SYSTEM_METRICS
 
   <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=badjuvi6&show_icons=true&theme=dark&hide_border=true&title_color=00f5ff&icon_color=00f5ff&text_color=ffffff&bg_color=0d1117" />
@@ -41,9 +41,12 @@
 
   ---
 
+  ### 👾 CONTRIBUTION_GRID // POKÉMON_TRAINER
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/github-snake-dark.svg" alt="Contribution Grid Animation" />
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
+    <br><br>
+    <img src="./github-snake-dark.svg" alt="Contribution Grid Animation" />
   </p>
 
 </div>
