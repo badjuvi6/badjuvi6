@@ -44,9 +44,9 @@
   ---
 
 
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="140" alt="Slaking" />
-    <br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
+</p>
     <img src="https://ghchart.rshah.org/00f5ff/badjuvi6" alt="badjuvi6's Github Contribution Chart" />
   </p>
 
