@@ -6,18 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate Pokemon Grid
-        uses: Platane/snk@v3
+        uses: sindresorhus/pokemon-contributions@v1
         with:
-          github_user_name: badjuvi6
-          outputs: |
-            github-snake-dark.svg?palette=github-dark&color_snake=%2300F5FF&color_dots=%23161b22,%23003b46,%23006677,%230099b8,%2300f5ff
+          github_username: badjuvi6
+          pokemon: slaking
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
