@@ -46,7 +46,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
     <br><br>
-    <img src="./github-snake-dark.svg" alt="Contribution Grid Animation" />
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/github-snake-dark.svg" alt="Contribution Grid Animation" />
   </p>
 
 </div>
