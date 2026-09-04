@@ -1,9 +1,7 @@
 <div align="center">
 
-  <h1>Manu Winfred</h1>   <p align="center">
-    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
-    <br>
-  </p>
+  <h1>Manu Winfred</h1>
+
   <p><code>> FULL-STACK DEVELOPER | IT UNDERGRADUATE</code></p>
 
   <p align="center">
@@ -39,10 +37,20 @@
     <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=badjuvi6&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" />
   </p>
 
+  ---
+
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/289.gif" width="130" alt="Slaking" />
+    <br>
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/main/github-snake-dark.svg" alt="Contribution Grid Animation" />
+  </p>
+
 </div>
 
 ---
 
+### 📂 DEPLOYED_PROJECTS
 
 ```yaml
 [01] Real Estate App: "Full-stack property listing web application built with React, Node.js, Express, and MongoDB."
