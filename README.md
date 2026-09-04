@@ -14,20 +14,23 @@
   ### ⚙️ TECH_STACK // CORE_CAPABILITIES
 
   <p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
-    <img src="https://img.shields.io/badge/HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=black" />
-    <img src="https://img.shields.io/badge/CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black" />
+    <!-- Languages & Core -->
+    <img src="https://img.shields.io/badge/🟨_JavaScript-00F5FF?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/☕_Java-00F5FF?style=for-the-badge&logo=openjdk&logoColor=black" />
+    <img src="https://img.shields.io/badge/🐍_Python-00F5FF?style=for-the-badge&logo=python&logoColor=black" />
+    <img src="https://img.shields.io/badge/🌐_HTML5-00F5FF?style=for-the-badge&logo=html5&logoColor=black" />
+    <img src="https://img.shields.io/badge/🎨_CSS3-00F5FF?style=for-the-badge&logo=css3&logoColor=black" />
     <br>
-    <img src="https://img.shields.io/badge/React-00F5FF?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Node.js-00F5FF?style=for-the-badge&logo=nodedotjs&logoColor=black" />
-    <img src="https://img.shields.io/badge/Express.js-00F5FF?style=for-the-badge&logo=express&logoColor=black" />
+    <!-- Frameworks & Libraries -->
+    <img src="https://img.shields.io/badge/⚛️_React-00F5FF?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/🟢_Node.js-00F5FF?style=for-the-badge&logo=nodedotjs&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚂_Express.js-00F5FF?style=for-the-badge&logo=express&logoColor=black" />
     <br>
-    <img src="https://img.shields.io/badge/MongoDB-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black" />
-    <img src="https://img.shields.io/badge/Firebase-00F5FF?style=for-the-badge&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/Git-00F5FF?style=for-the-badge&logo=git&logoColor=black" />
-    <img src="https://img.shields.io/badge/Postman-00F5FF?style=for-the-badge&logo=postman&logoColor=black" />
+    <!-- Databases & Tools -->
+    <img src="https://img.shields.io/badge/🍃_MongoDB-00F5FF?style=for-the-badge&logo=mongodb&logoColor=black" />
+    <img src="https://img.shields.io/badge/🔥_Firebase-00F5FF?style=for-the-badge&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/🐙_Git-00F5FF?style=for-the-badge&logo=git&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚀_Postman-00F5FF?style=for-the-badge&logo=postman&logoColor=black" />
   </p>
 
   ---
@@ -41,12 +44,12 @@
 
   ---
 
-  ### 👾 CONTRIBUTION_GRID // POKÉMON_TRAINER
+  ### 👾 CONTRIBUTION_GRID // PACMAN_GRID
 
   <p align="center">
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="90" alt="Slaking" />
-    <br>
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/github-snake-dark.svg" alt="Contribution Grid Animation" />
+    <br><br>
+    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/github-snake-dark.svg" alt="Pacman Grid Animation" />
   </p>
 
 </div>
