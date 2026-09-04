@@ -41,14 +41,11 @@
 
   ---
 
-  ### 👾 CONTRIBUTION_GRID // POKÉMON_TRAINER
+### 👾 CONTRIBUTION_GRID // POKÉMON_TRAINER
 
-  <p align="center">
-    <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="100" alt="Slaking" />
-    <br><br>
-    <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/github-snake-dark.svg" alt="Contribution Grid Animation" />
-  </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/badjuvi6/badjuvi6/output/pokemon-contributions.svg" alt="Pokemon Contribution Grid" />
+</p>
 </div>
 
 ---
