@@ -1,11 +1,10 @@
 <div align="center">
 
   <h1>
-    ⚡ Manu Winfred
+     Manu Winfred
     <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/slaking.gif" width="120" alt="Slaking" style="vertical-align: middle; margin-left: 10px;" />
   </h1>
 
-  <p>Developer</p>
 
   <p align="center">
     <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
