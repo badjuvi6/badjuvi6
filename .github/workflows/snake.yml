@@ -16,6 +16,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: badjuvi6
+          animate: true
+          animation_speed: 1
 
       - name: Push SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
