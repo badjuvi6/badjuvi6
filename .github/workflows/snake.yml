@@ -2,19 +2,19 @@ name: Generate Pacman Grid Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Runs every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk@v3
         with:
           github_user_name: badjuvi6
           outputs: |
-            dist/github-snake-dark.svg?palette=pacman
-
+            dist/github-snake-dark.svg?palette=pacman&color_snake=%2300F5FF
+        
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
