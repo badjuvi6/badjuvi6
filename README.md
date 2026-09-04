@@ -50,5 +50,5 @@
 * **[Real Estate App](https://github.com/badjuvi6/real-estate-frontend)** – Full-stack property listing web application built with React, Node.js, Express, and MongoDB.
 * **[E-Clinic Ghana](https://github.com/badjuvi6/eclinic-ghana-project)** – Healthcare appointment booking and medical record portal.
 * **[SME Finance Hub](https://github.com/badjuvi6/sme-finance-hub)** – Financial tools and backend management platform tailored for small businesses.
-* **[EduConnect GH](https://github.com/badjuvi6/educonnect-gh)** – Academic management and student course material platform.## Hi there 👋
+* **[EduConnect GH](https://github.com/badjuvi6/educonnect-gh)** – Academic management and student course material platform.
 
